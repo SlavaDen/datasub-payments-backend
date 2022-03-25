@@ -18,7 +18,8 @@ npm install
 ```
 
 2. Set your settings to .env
-   To the PORT and MOONGO_CONNECT variable
+   PORT - The port on which the application will be launched
+   MOONGO_CONNECT - Connection string to Moongo
 
 ```
 PORT=5000
